@@ -1,0 +1,12 @@
+.title {
+    padding: 50px;
+    border-radius: 5px;
+    margin: 50px 0;
+    background: #00000020;
+}
+
+.description {
+    padding: 10px;
+    font-weight: bold;
+    text-align: justify;
+}
